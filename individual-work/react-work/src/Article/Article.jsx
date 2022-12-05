@@ -8,8 +8,9 @@ function Article() {
 
     return (
         <div className="Articlecle">
+            <img/>
             <ArticleTitle/>
-            <ArticleText />
+            <ArticleText/>
         </div>
     )
 }
