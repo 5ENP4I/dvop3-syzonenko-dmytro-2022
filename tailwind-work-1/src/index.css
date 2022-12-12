@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card
+{
+  @apply rounded-sm bg-sky-900 text-white text-center w-1/4 mx-auto
+}
